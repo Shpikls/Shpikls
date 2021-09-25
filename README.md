@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Aleksei, I'm frontend Developer.
+- My name is Aleksei, I'm Frontend developer.
 - Developing applications in JavaScript since 2010.
 - Front Lead direction in the last two years.
 - Developing applications for the banking sector last three years.
