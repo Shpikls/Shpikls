@@ -3,6 +3,6 @@
 - My name is Aleksei, I'm frontend Developer.
 - Developing applications in JavaScript since 2010.
 - Front Lead direction in the last two years.
-- Developing applications for the banking sector for the last three years.
+- Developing applications for the banking sector last three years.
 - Mentoring five employees over the past three years.
 - I’m currently learning: ReactJS, TypeScript.
