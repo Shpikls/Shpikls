@@ -10,4 +10,4 @@ Front Lead direction in the last two years.
 
 Mentoring five employees over the past three years.
 
-- 🌱 I’m currently learning: ReactJS, TypeScript.
+I’m currently learning: ReactJS, TypeScript.
